@@ -1,10 +1,8 @@
-### Dashboard
-<img src="https://github.com/lasanishop/northwind-sales-analysis/blob/master/pbi-nwind.png" alt="Dashboard Image">
-
-### Check full project <a href="https://www.kaggle.com/">Here</a>
+<img src="https://github.com/Shahid-Malik4/northwind-sales-analysis/blob/main/pbi-nwind.png" alt="Dashboard Image">
 
 ### Skill & Tools:
-Excel, Power BI
+* Excel
+* Power BI
 
 # Introduction:
 The "Unveiling Sales Patterns: A Comprehensive Analysis of Northwind's Sales Data" project involved the processing, transformation, and visualization of sales data obtained from Kaggle. Utilizing MySQL for data manipulation, Excel for cleaning and preparation, and Power BI for normalization and visualization, the project aimed to extract actionable insights and visualize key performance indicators (KPIs) for comprehensive sales analysis.
