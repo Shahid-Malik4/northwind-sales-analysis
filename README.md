@@ -63,3 +63,6 @@ Identified top-selling items and analyzed their performance across categories an
 
 ## Conclusion:
 The "Unveiling Sales Patterns: A Comprehensive Analysis of Northwind's Sales Data" project effectively transformed raw sales data into actionable insights and KPIs using MySQL, Excel, Power Query, and Power BI. By normalizing the data and creating robust visualizations, the project provided stakeholders with valuable insights, enabling informed decision-making and driving improvements in sales performance.
+
+<br>
+<a href="https://shahidmalik4.github.io/projects/unveiling-sales-patterns-of-northwind-sales-data.html">Project Link</a>
