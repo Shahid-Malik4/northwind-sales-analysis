@@ -1,14 +1,22 @@
 <img src="https://github.com/Shahid-Malik4/northwind-sales-analysis/blob/main/pbi-nwind.png" alt="Dashboard Image">
 
-### Skill & Tools:
-* Excel
-* Power BI
+# Introduction
+📊 The "Unveiling Sales Patterns: A Comprehensive Analysis of Northwind's Sales Data" project involved the processing, transformation, and visualization of sales data obtained from Kaggle. Utilizing MySQL for data manipulation, Excel for cleaning and preparation, and Power BI for normalization and visualization, the project aimed to extract actionable insights and visualize key performance indicators (KPIs) for comprehensive sales analysis.
 
-# Introduction:
-The "Unveiling Sales Patterns: A Comprehensive Analysis of Northwind's Sales Data" project involved the processing, transformation, and visualization of sales data obtained from Kaggle. Utilizing MySQL for data manipulation, Excel for cleaning and preparation, and Power BI for normalization and visualization, the project aimed to extract actionable insights and visualize key performance indicators (KPIs) for comprehensive sales analysis.
+<br>
+checkout full project <a href="https://shahidmalik.vercel.app/project/unveiling-sales-patterns-of-northwind-sales-data">Here</a>
+<br>
+
+# Tools I Used
+For my deep dive into the analysis, I harnessed the power of several key tools:
+
+- **Excel:** The handy tool for Data manipulation.
+- **PowerBI:** My go-to for analysis and visualization.
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
 
 # Project Overview:
-Objective: To analyze Northwind sales data by combining tables in MySQL, cleaning in Excel, normalizing in Power Query, and visualizing insights in Power BI. Emphasis was placed on identifying best selling items, top paying customers, sales by company, category, territory, and conducting time series analysis.
+**Objective:** To analyze Northwind sales data by combining tables in MySQL, cleaning in Excel, normalizing in Power Query, and visualizing insights in Power BI. Emphasis was placed on identifying best selling items, top paying customers, sales by company, category, territory, and conducting time series analysis.
 
 # Project Phases:
 
